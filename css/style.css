@@ -873,6 +873,7 @@ a:focus {
 .portfolio .portfolio-img {
     position: relative;
     overflow: hidden;
+    border-radius: 10px;
 }
 
 .portfolio .portfolio-img img {
