@@ -17,7 +17,7 @@ h6 {
 }
 
 a {
-    color: #313131;
+    color: #14C9C9;
     transition: .3s;
 }
 
@@ -384,7 +384,7 @@ a:focus {
     .hero .hero-text,
     .hero .hero-btn {
         width: 100%;
-        text-align: center;
+        text-align: left;
     }
 
     .hero .hero-text p {
@@ -1501,7 +1501,7 @@ a:focus {
 .footer .footer-info {
     position: relative;
     width: 100%;
-    text-align: center;
+    text-align: left;
 }
 
 .footer .footer-info h2 {
