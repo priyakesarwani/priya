@@ -912,7 +912,7 @@ a:focus {
     overflow: hidden;
 }
 
-.portfolio-text:hover {
+.portfolio-text-heading:hover {
     text-decoration-line: underline !important;
 }
 
