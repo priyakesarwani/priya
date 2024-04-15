@@ -159,6 +159,10 @@ a:focus {
     box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
 }
 
+.navbar-brand:hover {
+    color: #14C9C9 !important;
+}
+
 .navbar .navbar-brand {
     margin: 0;
     font-size: 25px;
@@ -906,6 +910,10 @@ a:focus {
     margin: 0 0 0 15px;
     white-space: nowrap;
     overflow: hidden;
+}
+
+.portfolio-text:hover {
+    text-decoration-line: underline !important;
 }
 
 .portfolio .portfolio-text a.btn {
